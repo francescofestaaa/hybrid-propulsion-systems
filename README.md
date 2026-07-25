@@ -3,7 +3,7 @@ Progetto individuale svolto per un esame del percorso magistrale: simulazione MA
 
 # Simulazione di Powertrain Ibrido — Confronto Architetture e Strategie di Controllo
 
-Simulazione MATLAB/Simulink di un powertrain ibrido: confronto tra architetture (P2/P4), strategie di controllo ECMS e sostituzione progressiva dei componenti con dati reali.
+Simulazione MATLAB/Simulink di un powertrain ibrido: confronto tra architetture (P2/P3), strategie di controllo ECMS e sostituzione progressiva dei componenti con dati reali.
 
 ## Obiettivo
 
@@ -11,7 +11,7 @@ Il progetto analizza e confronta diverse configurazioni di powertrain ibrido, pa
 
 ## Fasi dell'analisi
 
-1. **Confronto P2 vs P4** — ECMS non adattiva, motore termico fornito dai docenti e macchina elettrica di default
+1. **Confronto P2 vs P3** — ECMS non adattiva, motore termico fornito dai docenti e macchina elettrica di default
 2. **ECMS adattiva vs non adattiva** — su architettura P2
 3. **Guida predittiva** — su architettura P2
 4. **Rubber engine sul motore termico** — scalatura del motore termico di riferimento
